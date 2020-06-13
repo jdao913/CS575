@@ -1,0 +1,1 @@
+Completed homework projects for spring 2020 [CS 575](http://web.engr.oregonstate.edu/~mjb/cs575/Projects/) class. 
